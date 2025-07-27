@@ -1,4 +1,4 @@
-**# Adventour ✈️
+# Adventour ✈️
 
 Welcome to Adventour, a visually appealing and responsive travel and tourism website template. This project showcases various travel packages, popular destinations, and company services, designed to inspire users to explore the world.
 
@@ -35,4 +35,4 @@ Welcome to Adventour, a visually appealing and responsive travel and tourism web
 
 ## 📂 Project Structure
 
-The project is organized with a clear and logical file structure:**
+The project is organized with a clear and logical file structure:
