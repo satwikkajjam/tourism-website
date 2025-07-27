@@ -2,8 +2,7 @@
 
 Welcome to Adventour, a visually appealing and responsive travel and tourism website template. This project showcases various travel packages, popular destinations, and company services, designed to inspire users to explore the world.
 
-![Adventour Website Screenshot](https://i.imgur.com/your-screenshot-url.png) 
-*(**Note**: Replace the above URL with a link to a screenshot of your live website)*
+
 
 ---
 
